@@ -3,7 +3,7 @@
 import { CreateCategoryParams } from "@/types"
 import { handleError } from "../utils"
 import { connectToDatabase } from "../database"
-import Category from "../database/models/category.modal"
+import Category from "../database/models/category.model"
 
 
 
